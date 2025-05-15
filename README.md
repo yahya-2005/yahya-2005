@@ -62,3 +62,4 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
